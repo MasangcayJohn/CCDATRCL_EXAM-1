@@ -32,7 +32,7 @@
 
 
 
-**3. STACK ** (25 pts)
+**3. STACK** (25 pts)
 - Create a Stack of characters of your SURNAME.
 
 - Print the Stack.
