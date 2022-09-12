@@ -6,7 +6,7 @@ public class App {
     public static void main(String[] args) throws Exception {
 
     // ARRAYS (50 points)
-    // ======================================================
+    System.out.println("======================================================");
     // 1. Create an array of characters of your SURNAME.
 
     // 2. Display each character of your SURNAME on each line.
@@ -18,7 +18,7 @@ public class App {
     // 5. Display the character of your SURNAME in reverse order.
 
     // LINKED LIST (25 points)
-    // ======================================================
+    System.out.println("======================================================");
     // 1. Create a Linked list of the last six numbers of your STUDENT NUMBER.
 
     // 2. Add an asterisk (*) to the head/front of the Linked list.
@@ -36,7 +36,7 @@ public class App {
     // 8. Display the LinkedList.
 
     // STACK (25 points)
-    // ======================================================
+    System.out.println("======================================================");
     // 1. Create a Stack of characters of your SURNAME.
 
     // 2. Print the Stack.
