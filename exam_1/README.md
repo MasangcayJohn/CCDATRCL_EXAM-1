@@ -1,6 +1,7 @@
 # Long Exam 1
 
 **_Note: Score will be based on the output of your program_**
+**_Note: Download App.java. This is the exam template_**
 
 **1. Array**  (50 pts)
 
