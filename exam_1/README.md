@@ -1,10 +1,10 @@
 # Long Exam 1
 
-**Score will be based on the output of your program**
+**_Note: Score will be based on the output of your program_**
 
 **1. Array**  (50 pts)
 
-- Create an array of characters of your SURNAME.
+- Create an array of characters of your **SURNAME**.
 
 - Print each character of your SURNAME on each line.
 
@@ -16,7 +16,7 @@
 
 **2. Linked list** (25 pts)
 
-- Create a Linked list of the last six numbers of your STUDENT NUMBER.
+- Create a Linked list of the last six numbers of your **STUDENT NUMBER**.
 
 - Add an asterisk (*) to the head/front of the Linked list.
 
@@ -35,7 +35,7 @@
 
 
 **3. Stack** (25 pts)
-- Create a Stack of characters of your SURNAME.
+- Create a Stack of characters of your **SURNAME**.
 
 - Print the Stack.
 
