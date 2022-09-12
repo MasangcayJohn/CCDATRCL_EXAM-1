@@ -1,5 +1,7 @@
 # Long Exam 1
 
+**Score will be based on the output of your program**
+
 **1. ARRAY**  (50 pts)
 
 - Create an array of characters of your SURNAME.
