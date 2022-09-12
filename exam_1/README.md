@@ -2,7 +2,7 @@
 
 **Score will be based on the output of your program**
 
-**1. ARRAY**  (50 pts)
+**1. Array**  (50 pts)
 
 - Create an array of characters of your SURNAME.
 
@@ -14,7 +14,7 @@
 
 - Print the character of your SURNAME in reverse order.
 
-**2. LINKED LIST** (25 pts)
+**2. Linked list** (25 pts)
 
 - Create a Linked list of the last six numbers of your STUDENT NUMBER.
 
@@ -34,7 +34,7 @@
 
 
 
-**3. STACK** (25 pts)
+**3. Stack** (25 pts)
 - Create a Stack of characters of your SURNAME.
 
 - Print the Stack.
