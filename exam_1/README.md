@@ -4,13 +4,13 @@
 
 - Create an array of characters of your SURNAME.
 
-- Display each character of your SURNAME on each line.
+- Print each character of your SURNAME on each line.
 
-- Display the first character of your SURNAME.
+- Print the first character of your SURNAME.
 
-- Display the last character of your SURNAME.
+- Print the last character of your SURNAME.
 
-- Display the character of your SURNAME in reverse order.
+- Print the character of your SURNAME in reverse order.
 
 **2. LINKED LIST** (25 pts)
 
@@ -20,15 +20,15 @@
 
 - Add an asterisk (*) to the tail/end of the Linked list.
   
-- Display the Linked list.
+- Print the Linked list.
 
-- Display the last character of the Linked list.
+- Print the last character of the Linked list.
   
 - Replace the last character of the Linked list with the exclamation symbol (!).
 
 - Remove the first character of the Linked list.
 
-- Display the LinkedList.
+- Print the LinkedList.
 
 
 
