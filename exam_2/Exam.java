@@ -20,6 +20,7 @@ public class Exam {
 
         System.out.println("1. Print the last six digits of your student number using IN-ORDER Traversal");
 
+        // Populate each node with the last six digits of your student number
         A = new Node('0');
         B = new Node('0');
         C = new Node('0');
@@ -31,6 +32,7 @@ public class Exam {
         System.out.println("");
         System.out.println("2. Print last six digits of your student number using PRE-ORDER Traversal");
 
+        // Populate each node with the last six digits of your student number
         A = new Node('0');
         B = new Node('0');
         C = new Node('0');
@@ -42,6 +44,7 @@ public class Exam {
         System.out.println("");
         System.out.println("3. Print last six digits of your student number using POST-ORDER Traversal");
 
+        // Populate each node with the last six digits of your student number
         A = new Node('0');
         B = new Node('0');
         C = new Node('0');
