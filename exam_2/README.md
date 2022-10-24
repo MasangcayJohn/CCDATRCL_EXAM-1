@@ -1,6 +1,6 @@
 # Not so long exam # 2
 
-**1. Download the Exam.java and Node.javafile**  
+**1. Download the Exam.java and Node.java file**  
 
 **2. Please follow the instructions in the file** 
 
